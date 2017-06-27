@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<form string="Opportunity">
+   <label name="party"/>
+   <field name="party"/>
+   <label name="description"/>
+   <field name="description"/>
+   <label name="start_date"/>
+   <field name="start_date"/>
+   <label name="end_date"/>
+   <field name="end_date"/>
+   <separator name="comment" colspan="4"/>
+   <field name="comment" colspan="4"/>
+</form>
+ 
